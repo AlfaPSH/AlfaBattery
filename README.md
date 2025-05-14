@@ -27,3 +27,8 @@
  
 ## LMKD
 - The minfree parameter of the LMK is set to " 73728,86016,98304,122880,159744,204800 "
+
+# Author 
+- Hi I´m AlfaPSH, main kotlin developer, i specialize on Android kernel and ROM porting
+- My main device is a Redmi 10c, using MistOSS and a custom kernel
+- More information avaliable on https://alfapsh.github.io/Portfolio
